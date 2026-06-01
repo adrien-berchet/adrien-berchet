@@ -11,6 +11,15 @@ I enjoy turning complex scientific and technical problems into reliable, maintai
 - Applied machine learning
 - Robust, maintainable research code
 
+## Open source and selected projects
+
+- [GeoAlchemy2](https://github.com/geoalchemy/geoalchemy2): geospatial extension to SQLAlchemy for working with spatial databases.
+- [morphology-workflows](https://github.com/BlueBrain/morphology-workflows): scientific Python workflows for processing neuronal morphologies, including fetching, curation, annotation, repair, transformation, and reproducible reporting.
+- [dir-content-diff](https://github.com/BlueBrain/dir-content-diff): Python tool to compare generated directory contents against reference outputs.
+- [data-validation-framework](https://github.com/BlueBrain/data-validation-framework): framework for building data validation workflows based on Luigi.
+- [luigi-tools](https://github.com/BlueBrain/luigi-tools): utilities that extend Luigi for complex workflow and pipeline development.
+- [GeoAnnotator](https://github.com/adrien-berchet/GeoAnnotator): full-stack web application for geospatial annotation, with Django, PostGIS, React, TypeScript, Docker, and monitoring tooling.
+
 ## Currently interested in
 - Open-source scientific software
 - ML-assisted modeling and simulation
