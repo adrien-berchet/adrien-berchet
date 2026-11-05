@@ -38,8 +38,9 @@ I contribute to tools and workflows used in geospatial applications, computation
 
 - [magic_pong](https://github.com/adrien-berchet/magic_pong): Pong variant designed for AI research, with free 2D paddle movement, bonuses (paddle resizing, rotating paddles), headless simulation, and a numba-accelerated vectorised training loop (Double DQN with n-step returns). Includes rule-based opponents, a lookahead planner, and DAgger distillation of that planner into a DQN agent.
 
-[![Training progression of the agent](https://img.youtube.com/vi/wRzNxExicuU/hqdefault.jpg)](https://youtu.be/wRzNxExicuU)
-*Training progression of the agent, recorded with the project's progression video recorder.*
+  https://github.com/user-attachments/assets/3b9fae2d-977f-44ff-a8ca-0874c3a685ad
+
+  *Training progression of the agent, recorded with the project's progression video recorder.*
 
 ## Currently interested in
 
