@@ -34,6 +34,14 @@ I contribute to tools and workflows used in geospatial applications, computation
 - [luigi-tools](https://github.com/BlueBrain/luigi-tools): utilities extending Luigi for complex workflow and pipeline development.
 - [dir-content-diff](https://github.com/BlueBrain/dir-content-diff): Python tool for comparing generated directory contents with reference outputs.
 
+### Reinforcement learning and game AI
+
+- [magic_pong](https://github.com/adrien-berchet/magic_pong): Pong variant designed for AI research, with free 2D paddle movement, bonuses (paddle resizing, rotating paddles), headless simulation, and a numba-accelerated vectorised training loop (Double DQN with n-step returns). Includes rule-based opponents, a lookahead planner, and DAgger distillation of that planner into a DQN agent.
+
+  https://github.com/user-attachments/assets/3b9fae2d-977f-44ff-a8ca-0874c3a685ad
+
+  *Training progression of the agent, recorded with the project's progression video recorder.*
+
 ## Currently interested in
 
 - Open-source scientific software
